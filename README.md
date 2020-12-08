@@ -1,4 +1,4 @@
-# contador_pessoas
+# Contador de Pessoas para restaurante.
 
 A new Flutter application.
 
